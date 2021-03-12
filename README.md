@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://www.patika.dev/egitimler/frontend-web-development-patikasi) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisnde bir adet README dosyası bir adet index.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://www.patika.dev/egitimler/frontend-web-development-patikasi) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet index.html dosyası barındırıyor.
 ## Installation 
 Öncelikle projeyi clonelayın 
 ```
